@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../Navbar-components/navbar-component'
 import {ShopHome} from './shophome.styled'
-import FoodPage from '../../pages/shopFoodPage-component./shopFood-component'
+import FoodPage from '../shopFoodPage-component./shopFood-component.jsx'
 import {Route  } from 'react-router-dom'
 import OrderPage from '../OrderPage-components/orderPage.components'
 import {fetchDataStartAsync } from '../../redux/shop/shop-actions'
@@ -9,6 +9,9 @@ import { connect } from 'react-redux'
 import withSpinner from '../WithLoading-component/withLoading-components'
 import {  fetchingDataForLoading, selectFoodLoading } from '../../redux/shop/shop-selectors'
 import { createStructuredSelector } from 'reselect'
+
+
+
 const FoodPageWithSpinner = withSpinner(FoodPage) ;
 const OrderPageWithSpinner = withSpinner(OrderPage);
 
