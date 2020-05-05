@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EatEasy-Delivery-Food/static/css/main.d1e0af6f.chunk.css",
+    "main.js": "/EatEasy-Delivery-Food/static/js/main.d84e2bcf.chunk.js",
+    "main.js.map": "/EatEasy-Delivery-Food/static/js/main.d84e2bcf.chunk.js.map",
+    "runtime-main.js": "/EatEasy-Delivery-Food/static/js/runtime-main.cb2491c7.js",
+    "runtime-main.js.map": "/EatEasy-Delivery-Food/static/js/runtime-main.cb2491c7.js.map",
+    "static/js/2.eb809347.chunk.js": "/EatEasy-Delivery-Food/static/js/2.eb809347.chunk.js",
+    "static/js/2.eb809347.chunk.js.map": "/EatEasy-Delivery-Food/static/js/2.eb809347.chunk.js.map",
+    "index.html": "/EatEasy-Delivery-Food/index.html",
+    "precache-manifest.8ffa72a907e3d3096d48edb0c64c4a39.js": "/EatEasy-Delivery-Food/precache-manifest.8ffa72a907e3d3096d48edb0c64c4a39.js",
+    "service-worker.js": "/EatEasy-Delivery-Food/service-worker.js",
+    "static/css/main.d1e0af6f.chunk.css.map": "/EatEasy-Delivery-Food/static/css/main.d1e0af6f.chunk.css.map",
+    "static/js/2.eb809347.chunk.js.LICENSE.txt": "/EatEasy-Delivery-Food/static/js/2.eb809347.chunk.js.LICENSE.txt",
+    "static/media/food.jpeg": "/EatEasy-Delivery-Food/static/media/food.b4d9ea11.jpeg",
+    "static/media/twitter.png": "/EatEasy-Delivery-Food/static/media/twitter.8f35a404.png",
+    "static/media/undraw.ac9bb33b.svg": "/EatEasy-Delivery-Food/static/media/undraw.ac9bb33b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb2491c7.js",
+    "static/js/2.eb809347.chunk.js",
+    "static/css/main.d1e0af6f.chunk.css",
+    "static/js/main.d84e2bcf.chunk.js"
+  ]
+}
