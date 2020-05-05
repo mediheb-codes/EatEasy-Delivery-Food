@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../Navbar-components/navbar-component'
 import {ShopHome} from './shophome.styled'
-import FoodPage from '../shopFoodPage-component./shopFood-component.jsx'
+import FoodPage from '../shopFoodPage-component/shopFood-component'
 import {Route  } from 'react-router-dom'
 import OrderPage from '../OrderPage-components/orderPage.components'
 import {fetchDataStartAsync } from '../../redux/shop/shop-actions'
